@@ -12,10 +12,6 @@ A custom 9-key macropad built from scratch using KiCad, featuring a Seeed Studio
 * ⌨️ Programmable keys for shortcuts, macros, and other functions
 * 🛠️ Designed as a custom DIY hardware project
 
-## 🖼️ Preview
-
-![Macropad KiCad Model](images/macropad.jpg)
-
 ## 🔧 Hardware
 
 | Component               | Quantity |
