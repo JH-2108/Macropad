@@ -86,7 +86,8 @@ This project is currently under development.
 * [x] Select OLED display
 * [x] Design initial schematic
 * [x] Design PCB
-* [ ] Finalize PCB
+* [x] Finalize PCB
+* [x] design Macropad CAD model
 * [ ] Manufacture PCB
 * [ ] Assemble macropad
 * [ ] Write firmware
