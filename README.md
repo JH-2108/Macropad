@@ -59,15 +59,14 @@ The PCB is designed specifically around the components used in this project, so 
 ```text
 macropad/
 ├── README.md
-├── hardware/
+├── PCB/
 │   ├── macropad.kicad_pro
 │   ├── macropad.kicad_sch
 │   ├── macropad.kicad_pcb
-│   └── footprints/
-├── firmware/
-│   └── ...
+├── CAD files/
+│   ├─ base
+│   ├─ plate 
 ├── images/
-│   └── ...
 └── LICENSE
 ```
 
