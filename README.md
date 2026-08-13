@@ -14,9 +14,7 @@ A custom 9-key macropad built from scratch using KiCad, featuring a Seeed Studio
 
 ## 🖼️ Preview
 
-> Add pictures of your schematic, PCB, and completed macropad here.
-
-![Macropad](images/macropad.jpg)
+![Macropad KiCad Model](images/macropad.jpg)
 
 ## 🔧 Hardware
 
