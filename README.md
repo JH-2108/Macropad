@@ -12,7 +12,9 @@ A custom 9-key macropad built from scratch using KiCad, featuring a Seeed Studio
 * Designed as a custom DIY hardware project
 
 ## 🪟 Screenshots of my Hackpad 
-![My Overall Hackpad](images/
+![My Overall Hackpad](images/Macropad%20CAD.png)
+![Schematics](images/Schematics.png)
+![PCB design](images/KiCAD%20PCB.png)
 
 ## 💥Challenges 
 During the entire design process, I did not face as many challenges as one would being a beginner to creating a Hackpad, before I started this project, I already had the basic understanding of how Fusion360 works, the only thing I needed to master and know are how to created the PCB and the firmware for my Hackpad to successfully function. In order to solve this issue, I went online; searched for tutorials, asked my friend who has a deep sense of love in coding and programming; through these resources, I was able to fully finish designing my Hackpad. For beginners reading this, I believe that you are able to make one too, just like I did!!! 
