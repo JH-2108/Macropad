@@ -13,12 +13,18 @@ A custom 9-key macropad built from scratch using KiCad, featuring a Seeed Studio
 
 ## 🪟 Screenshots of my Hackpad 
 **My Overall Hackpad**
+
 ![My Overall Hackpad](images/Macropad%20CAD.png)
+
 **Schematics**
 ![Schematics](images/Schematics.png)
+
 **PCB Design**
+
 ![PCB design](images/KiCAD%20PCB.png)
+
 **Connecting the Case and PCB**
+
 ![Case and PCB](images/Case%20Placed%20Together.png)
 
 ## 💥Challenges 
