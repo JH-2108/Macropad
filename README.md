@@ -78,7 +78,7 @@ Planned functionality includes:
 
 ## 📜 License
 
-This project is open source. See the `LICENSE` file for details.
+This project is open source. See the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Credits
 
