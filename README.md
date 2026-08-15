@@ -30,7 +30,8 @@ A custom 9-key macropad built from scratch using KiCad, featuring a Seeed Studio
 ## 💥Challenges 
 During the entire design process, I did not face as many challenges as one would being a beginner to creating a Hackpad, before I started this project, I already had the basic understanding of how Fusion360 works, the only thing I needed to master and know are how to created the PCB and the firmware for my Hackpad to successfully function. In order to solve this issue, I went online; searched for tutorials, asked my friend who has a deep sense of love in coding and programming; through these resources, I was able to fully finish designing my Hackpad. For beginners reading this, I believe that you are able to make one too, just like I did!!! 
 
-## 🔧 Hardware
+## 🔧 BOM
+This is everything that you should prepare in order to make this Hackpad
 
 | Component               | Quantity |
 | ----------------------- | -------: |
@@ -40,31 +41,6 @@ During the entire design process, I did not face as many challenges as one would
 | 0.91" OLED display      |        1 |
 | Custom PCB              |        1 |
 | USB-C connection        |        1 |
-
-### OLED Display
-
-The OLED uses a 4-pin connection with the following pin order:
-
-| OLED Pin | Connection   |
-| -------- | ------------ |
-| GND      | GND          |
-| VCC      | 3.3V / VCC   |
-| SCL      | XIAO I²C SCL |
-| SDA      | XIAO I²C SDA |
-
-## 📐 PCB Design
-
-The PCB was designed using **KiCad**.
-
-The repository contains the KiCad project files, including:
-
-* Schematic
-* PCB layout
-* Footprints
-* Symbols
-* Project configuration
-
-The PCB is designed specifically around the components used in this project, so make sure the correct footprints and pin assignments are used before manufacturing.
 
 ## 📁 Repository Structure
 
@@ -93,25 +69,6 @@ Planned functionality includes:
 * Macro support
 * OLED status display
 * Future customizable profiles
-
-## 🧪 Development
-
-This project is currently under development.
-
-### Current Progress
-
-* [x] Select microcontroller
-* [x] Select OLED display
-* [x] Design initial schematic
-* [x] Design PCB
-* [x] Finalize PCB
-* [x] design Macropad CAD model
-* [ ] Manufacture PCB
-* [ ] Assemble macropad
-* [ ] Write firmware
-* [ ] Test all keys
-* [ ] Test OLED
-* [ ] Complete final build
 
 ## 🛠️ Tools
 
